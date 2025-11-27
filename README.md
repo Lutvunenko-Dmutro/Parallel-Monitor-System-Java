@@ -49,7 +49,7 @@ $$a = \max(C + Z \cdot MO)$$
 ## ⚙️ Як запустити
 
 ### Спосіб 1: Windows (Рекомендовано)
-Завантажте файл **`Lab4.exe`** і запустіть його.
+Завантажте файл **[`Lab4.exe`](https://github.com/Lutvunenko-Dmutro/Parallel-Monitor-System-Java/releases/download/V1/Lab.exe)** і запустіть його.
 * *Примітка: Java має бути встановлена на комп'ютері.*
 
 ### Спосіб 2: Java JAR
