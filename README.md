@@ -1,6 +1,6 @@
 # Parallel Monitor System (Java Swing) ⚡
 
-**Лабораторна робота №4** | "Монітори в мові Java. Взаємодія потоків через спільну пам'ять."
+**Практична робота № 10** | "Монітори в мові Java. Взаємодія потоків через спільну пам'ять."
 
 ![Project Status](https://img.shields.io/badge/Status-Completed-success)
 ![Java](https://img.shields.io/badge/Java-17%2B-orange)
